@@ -23,6 +23,10 @@ Ye Kyaw Thu served as the supervisor for this project.
 
 ## Speech Corpus  
 
+Work in progress. Currently, we have published one paper related to the myMediCon speech corpus:  
+
+Hay Man Htun, Ye Kyaw Thu, Hutchatai Chanlekha, Kotaro Funakoshi, and Thepchai Supnithi, "End-to-End Burmese Automatic Speech Recognition for Medical Conversations," in the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 20–25 May, Torino, Italy, pp. 12032–12039.  
+
 
 ## Lincense
 
