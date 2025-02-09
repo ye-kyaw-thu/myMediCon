@@ -7,6 +7,8 @@ The myMediCon corpus is a contribution by LU Lab., Myanmar, addressing the need 
 
 The text corpus is based on conversations between doctors and patients, derived from the English book titled "Samson Handbook of PLAB 2 and Clinical Assessment" written by Dr. Samson Chissi, MD, which is intended for clinical examinations. These English sentences were manually translated into Myanmar language. To avoid copyright issues, the English sentences were paraphrased using Quillbot software instead of being used verbatim. Additionally, the English sentences from the book were translated into Thai using Google Translate. As a result, the English and Thai data can be considered, in a way, synthesized data.
 
+### Text Corpus Versions
+Version 0.8 was released on 9 February 2025.  
 The file information for the myMediCon text corpus (version 0.8) is as follows:
 
 ```
