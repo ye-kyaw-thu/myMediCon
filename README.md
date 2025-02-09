@@ -18,7 +18,8 @@ $ wc *
   14592  186871 2489211 data.th
 ```
 
-Main Contributors
+## Main Contributors  
+
 The development of this text corpus is part of the master's degree thesis by Mya Ei San (SIIT, Thammasat University, Thailand), titled "Machine Translation for Low-Resource Thai-English-Myanmar Language Pairs".  
 
 Ye Kyaw Thu served as the supervisor for this project.  
